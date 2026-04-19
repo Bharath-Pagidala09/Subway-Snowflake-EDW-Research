@@ -1,4 +1,4 @@
-# Subway Snowflake EDW Research — Data Management Strategy Analysis
+# Subway Snowflake EDW Research (Data Management Strategy Analysis)
 
 ## ⚠️ Note
 This is a research and written analysis report — it does not contain 
